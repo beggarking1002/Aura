@@ -7,11 +7,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66afd496-6306-419d-8d19-f84b9d2579f2" name="Changes" comment="" />
+    <list default="true" id="66afd496-6306-419d-8d19-f84b9d2579f2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/AuraCharacterBase.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/AuraCharacterBase.h" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -25,6 +32,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Uproject.Aura.executor": "Run",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -126,6 +135,8 @@
       <updated>1716314008649</updated>
       <workItem from="1716314010636" duration="601000" />
       <workItem from="1716316341307" duration="124000" />
+      <workItem from="1716318298577" duration="116000" />
+      <workItem from="1716341274818" duration="2354000" />
     </task>
     <servers />
   </component>
